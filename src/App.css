@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-input:focus {
+  outline: none;
+  border-color: transparent; /* or any color you prefer */
+}
+
+/* *{
+  border: solid red 1px;
+} */
